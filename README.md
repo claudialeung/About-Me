@@ -1,9 +1,4 @@
 
-<html>
-<head>
-<title>About Me</title>
-</head>
-
 <body>
 <h1>About Me</h1>
 <p>I'm a designer living in New York City. I became interested in Front-End Web Design and Development because I don't know anything about it.</p>
